@@ -1,0 +1,36 @@
+body{
+     text-align: center; 
+     width: 100%;
+}
+
+.left{
+    text-align: left;
+}
+
+.right{
+    text-align: right;
+}
+
+.minimal{
+    margin: -10px 0 -10px 0;
+    border: -10px 0 -10px 0;
+    text-align: center;
+}
+
+.row{
+    width: 100%;
+}
+
+.content{
+    text-align: left;
+}
+
+.title{
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3{
+    margin: 0;
+    padding: 0;
+}
